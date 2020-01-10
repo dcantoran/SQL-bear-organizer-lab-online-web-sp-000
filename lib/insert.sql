@@ -1,1 +1,1 @@
-INSERT INTO bears (name, age, breed, net_worth) VALUES ("Lil' Bub", 2, "Tortoiseshell", 3000000);
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1, "Grizzie", 5, "Female", "Brown", "Aggressive", );
