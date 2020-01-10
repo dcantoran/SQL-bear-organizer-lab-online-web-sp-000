@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, breed, net_worth) VALUES ("Lil' Bub", 2, "Tortoiseshell", 3000000);
